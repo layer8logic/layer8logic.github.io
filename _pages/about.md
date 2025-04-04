@@ -29,3 +29,11 @@ That said, I still try to operate every day with the mindset that technical prob
 
 At the end of the day, approaching technical issues with a people-first mindset means recognizing that most of what we call “IT problems” are really just organizational change problems.
 
+## Wait, what does layer 8 logic mean?
+If you’ve ever worked in IT, you’ve probably heard someone jokingly refer to “Layer 8” of the OSI model. Officially, the OSI model stops at Layer 7—but unofficially? There’s a hidden eighth layer: the people. And they’re usually the trickiest part of the stack.
+
+Tech is easy. People? Not so much.
+
+I chose the name Layer 8 Logic because so many of the challenges we face in IT, cybersecurity, and leadership aren’t technical at all—they’re human. Miscommunication, misaligned incentives, cultural resistance, burnout, bureaucracy… those are Layer 8 problems. Solving them takes more than tools and tech; it takes empathy, psychology, patience, and sometimes a little humor.
+
+This blog is about exploring that messy, fascinating, people-filled layer—from the perspective of someone who lives in the intersection of cybersecurity, higher ed, and organizational leadership. If you’re into the human side of tech, you’re in the right place.
